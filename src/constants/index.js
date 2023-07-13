@@ -112,12 +112,12 @@ import {
       company_name: "Absolute Impact",
       icon: AbsoluteImpact,
       iconBg: "#383E56",
-      date: "Nov 2022 - May 2023",
+      date: "Nov 2022 - Mar 2023",
       points: [
-        "Developing and maintaining web applications using Wordpress and other related technologies.",
+        "Developed and maintained web applications using Wordpress and other related technologies.",
         
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in Agile Development to ensure an well constructed website in a short amount of time",
+        "Implemented responsive design and ensuring cross-browser compatibility.",
+        "Participated in Agile Development to ensure an well constructed website in a short amount of time",
       ],
     },
     //Example Piece:
@@ -145,22 +145,7 @@ import {
       company: "Absolute Impact",
       image: "",
     },
-    {
-      testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
-    },
-    {
-      testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
-    },
+    
   ];
   
   const projects = [
